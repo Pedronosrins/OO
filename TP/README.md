@@ -1,12 +1,12 @@
 ## Trabalho Programado
 
 OO - Orientação à Objetos  
-Prof: [Dr. Andre Luiz Peron Martins Lanna](https://github.com/andrelanna/)  
-  
-## Diagramas  
-[Diagrama de Classes](Class_Diagram.png)  
-[Diagrama de Objetos](Object_Diagram.png)  
-  
+Prof: [Dr. Andre Luiz Peron Martins Lanna](https://github.com/andrelanna/)
+
+## Diagramas
+[Diagrama de Classes](Diagrams/Class_Diagram.png)  
+[Diagrama de Objetos](Diagrams/Object_Diagram.png)
+
 ## Estudantes
 | Nome | Matricula |  
 | -----| -----------|  
